@@ -22,5 +22,5 @@ N/A
 
 ## License
 
-[MIT License](prework-study-guide/LICENSE)
+Please refer to the LICENSE in the repo.
 
